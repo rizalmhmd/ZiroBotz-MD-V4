@@ -41,56 +41,56 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/6281228070013'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
+global.sig = 'https://instagram.com/zallzall02'
+global.tautanwa = 'https://wa.me/6281333154367'
+global.sgh = 'https://github.com/rizalmhmd' //github
 global.sgc = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2' //group whatsapp
-global.sdc = '-' //discord
+global.sdc = 'https://discord.gg/4HvezMAw' //discord
 global.linkyt = 'https://youtube.com/@Ziro-MD_Official'
 global.syt = 'https://youtube.com/@Ziro-MD_Official'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2'
 global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/6281228070013'
+global.wame = 'https://wa.me/6281333154367'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628xxxxxxxxx', '𝑍𝐼𝑅𝑂-𝑀𝐷', true],
-['628xxxxxxxxx', '𝑍𝐼𝑅𝑂-𝑀𝐷', true]
+['6281333154367', '𝚉𝚊𝚕𝚕', true],
+['6281392128956', 'Rozz', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628XXXXXXXXX' //pasang no bot lo 
-global.nomorown = '628XXXXXXXX' //pasang no own lo
-global.nomorown1 = '628XXXXXXXX'
-global.nomorown2 = '628XXXXXXX'
+global.nomorbot = '6287784130127' //pasang no bot lo 
+global.nomorown = '6281333154367' //pasang no own lo
+global.nomorown1 = '6281333154367'
+global.nomorown2 = '6281392128956'
 global.nomorwa = '0'
-global.nameown = '𝑍𝐼𝑅𝑂-𝑀𝐷'
-global.gcname = '𝑍𝐼𝑅𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝐼𝑅𝑂-𝑀𝐷'
-global.namabot = '𝗭𝗶𝗿𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝗶𝗿𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝐼𝑅𝑂-𝑀𝐷'
+global.nameown = '𝚉𝚊𝚕𝚕'
+global.gcname = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Created By 𝚉𝚊𝚕𝚕'
+global.namabot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.packname2 = '𝚉𝚊𝚕𝚕'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝐼𝑅𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝐼𝑅𝑂-𝑀𝐷'
+global.nameown1= '𝚉𝚊𝚕𝚕'
+global.nameown2 = 'Rozz'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝐼𝑅𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝐼𝑅𝑂-𝑀𝐷 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.wm2 = '𝚉𝚊𝚕𝚕 '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝐼𝑅𝑂-𝑀𝐷`
+global.titlebot = `𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝐼𝑅𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝐼𝑅𝑂-𝑀𝐷`
+global.stickpack = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.stickauth = `© 𝚉𝚊𝚕𝚕`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -110,13 +110,13 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '081333154367' //pasang no lo sinih buat donasi 
+global.povo = '081333154367' 
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '081333154367'
+global.ppulsa2 = '081392128956'
+global.psaweria = '-'
 global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -280,7 +280,7 @@ global.APIKeys = { // APIKey Here
   'https://hardianto.xyz': 'hardianto',
   'https://violetics.pw': 'beta',
   'https://ziy.herokuapp.com' : 'xZiyy',
-  'https://api.nataganz.com' : 'Pasha'
+  'https://api.nataganz.com' : '023l1qhbpk'
 }
 //⳹ NOTE !! EXAMPLE ➢ 'https://WebsiteApi': 'Apikey'
 
@@ -347,9 +347,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/zallzall02"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6281228070013'
+global.phn = '6281333154367'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
